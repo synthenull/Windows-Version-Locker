@@ -21,8 +21,4 @@ Windows Version Locker is a command-line tool designed for Windows 11 users who 
 4. Enter the desired Windows 11 version you wish to lock to (e.g., `24H2`) when prompted[cite: 1].
 5. Restart your computer for the registry changes to take effect[cite: 1].
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
-*Developed by [synthenull](https://github.com/synthenull)[cite: 1].*
